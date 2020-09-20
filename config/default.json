@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://gau123:gau123@devconnector.ugnqm.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://gau123:gau123@devconnector.ugnqm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
